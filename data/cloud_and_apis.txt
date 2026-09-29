@@ -1,0 +1,9 @@
+Cloud computing delivers computing services over the internet, including servers, storage, databases, networking, and software applications without direct local management.
+
+Application Programming Interfaces (APIs) allow different software systems to communicate with each other using a set of defined definitions and protocols.
+
+REST APIs rely on standard HTTP methods like GET, POST, PUT, and DELETE to request and manipulate data across network services.
+
+Environment variables are used to securely store sensitive configuration credentials such as secret API keys, database connection strings, and server tokens outside of code repositories.
+
+Asynchronous processing allows web applications to run background tasks independently without blocking the main user interface or slowing down server execution.

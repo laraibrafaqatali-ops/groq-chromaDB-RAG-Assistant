@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Groq + ChromaDB RAG Assistant</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>Groq + ChromaDB RAG Assistant</h1>
+    
+    <div class="input-group">
+        <label for="question">Ask Your Question:</label>
+        <textarea id="question" placeholder="e.g. What is asynchronous processing?"></textarea>
+    </div>
+
+    <button type="button" id="submitBtn">Submit Query</button>
+
+    <div class="loading" id="loading">Searching knowledge base and generating answer...</div>
+
+    <div class="result-box" id="resultBox">
+        <div class="result-title">Answer:</div>
+        <div class="result-content" id="answerContent"></div>
+    </div>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>

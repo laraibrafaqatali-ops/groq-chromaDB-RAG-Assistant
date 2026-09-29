@@ -1,0 +1,7 @@
+Artificial Intelligence (AI) is a branch of computer science focused on building smart machines capable of performing tasks that typically require human intelligence.
+
+Machine Learning (ML) is a subset of AI that enables systems to learn and improve from experience without being explicitly programmed. It relies heavily on patterns and statistical models.
+
+Deep Learning is a specialized subfield of Machine Learning based on Artificial Neural Networks. Models like ResNet and VGG are widely used for image classification and computer vision tasks.
+
+Retrieval-Augmented Generation (RAG) connects Large Language Models to external databases to provide contextually accurate and up-to-date responses.

@@ -1,0 +1,9 @@
+Deep learning is a subset of machine learning based on artificial neural networks that mimic the structure and processing methods of the human brain.
+
+Convolutional Neural Networks (CNNs) are specialized deep learning architectures designed primarily for processing visual imagery, object detection, and spatial feature extraction.
+
+Transfer learning enables developers to take a pre-trained model on a large dataset and fine-tune it on a specific target domain with much less computational cost.
+
+Activation functions like ReLU and Sigmoid introduce non-linearity into neural networks, allowing them to learn complex patterns and decision boundaries in high-dimensional data.
+
+Overfitting occurs when a model learns noise and details in the training data to the extent that it negatively impacts performance on new unseen evaluation data.
