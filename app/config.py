@@ -69,4 +69,4 @@ class Settings:
 
 
 settings = Settings()
-```
+
